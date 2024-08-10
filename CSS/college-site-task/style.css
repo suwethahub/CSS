@@ -1,0 +1,73 @@
+html{
+	font-size:16px;
+}
+h1{
+	color:black;
+	text-shadow:3px 3px 2px red;
+}
+a{
+	color:red;
+	text-decoration:none;
+}
+a:visited{
+	color:red;
+}
+a:hover{
+	color:yellow;
+	text-decoration:underline;
+}
+a:active{
+	color:green;
+	text-decoration:underline;
+}
+nav,header{
+background-color:rgb(119,221,119);
+opacity:0.4;
+}
+h2{
+	color:yellow;
+	font-size:2rem;
+}
+h3{
+	font-size:2rem;
+	color:purple;
+	font-family:Sophia;
+	font-weight:bold;
+	font-style:italic;
+}
+
+menu,p{
+	font-size:2rem;
+	color:white;
+	font-style:italic;
+	font-family:Romantic Serif,reat Vibes;
+	
+}
+footer{
+	
+	background-color:rgb(119,221,119);
+	opacity:0.4;
+	height:200px;
+	width:1400px;
+}
+footer h4{
+	font-size:2rem;
+	color:#8B0000;
+	font-family:Sophia;
+	font-weight:bold;
+	font-style:italic;
+}
+
+#t1,#t2 th,td{
+	
+	
+	color:white;
+	font-weight:bold;
+
+	font-family:Times New Roman ;
+}
+body{
+background-image:url("images/f1.jpeg");
+background-repeat:no-repeat;
+background-size:cover;
+}
